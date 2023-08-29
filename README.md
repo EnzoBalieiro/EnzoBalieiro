@@ -18,6 +18,8 @@ Minhas redes: [![Github Badge](https://img.shields.io/badge/-Github-000?style=fl
 <hr>
 
 Minhas estatiscas:
+
+
 [![EnzoBalieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzobalieiro)](https://github.com/EnzoBalieiro/github-readme-stats)
 
 
