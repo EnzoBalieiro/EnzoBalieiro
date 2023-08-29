@@ -21,11 +21,10 @@ Minhas redes: [![Github Badge](https://img.shields.io/badge/-Github-000?style=fl
 Minhas estatiscas:
 
 
-[![EnzoBalieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoBalieiro&theme=shadow_red)][https://github.com/EnzoBalieiro/github-redme-statis)
+[![EnzoBalieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoBalieiro&theme=shadow_red)(https://github.com/EnzoBalieiro/github-redme-status)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
-username=EnzoBalieiro&layout=pie)](https://github.com/EnzoBalieiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBalieiro&layout=pie)](https://github.com/EnzoBalieiro/github-readme-stats)
 
 <hr>
 
