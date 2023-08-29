@@ -25,7 +25,7 @@ Minhas estatiscas:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBalieiro&layout=pie&theme=shadow_red)](https://github.com/EnzoBalieiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBalieiro&layout=donout_chart&theme=shadow_red)](https://github.com/EnzoBalieiro/github-readme-stats)
 
 
 <hr>
