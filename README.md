@@ -5,8 +5,9 @@ Sou o Enzo Costa Balieiro.
 Atualmente estou estudando:
 
 💻 HTML <br>
-💻 CSS <br>
-💻 JAVASCRIPT <br>
+🖥️ CSS <br>
+🍵 JAVASCRIPT <br>
+🐍 Pythom <br>
 
 Estou cursando Web Designer
 
@@ -20,7 +21,7 @@ Minhas redes: [![Github Badge](https://img.shields.io/badge/-Github-000?style=fl
 Minhas estatiscas:
 
 
-[![EnzoBalieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzobalieiro)](https://github.com/EnzoBalieiro/github-readme-stats)
+[![EnzoBalieiro GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzobalieiro&dark)](https://github.com/EnzoBalieiro/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBalieiro&layout=compact)](https://github.com/EnzoBalieiro/github-readme-stats)
